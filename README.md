@@ -2,7 +2,8 @@
 
 ## Projects
 1. **Movie Recommendation System** 
-    - recommend best Movies to users, based on self & others behaviour implementing Demographic Filtering, Content Based Filtering, and Collaborative Filtering
+    - Recommend best Movies to users, based on self & others behaviour implementing Demographic Filtering, Content Based Filtering, and Collaborative Filtering
+
 
 2. **Project 2**
 
