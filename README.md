@@ -2,6 +2,8 @@
 
 ## Projects
 1. **Movie Recommendation System** 
+
+    - [Kaggle Project link](https://www.kaggle.com/ashleshkhajbage/building-movie-recommendation-system)
     - Recommend best Movies to users, based on self & others behaviour implementing Demographic Filtering, Content Based Filtering, and Collaborative Filtering
 
 
